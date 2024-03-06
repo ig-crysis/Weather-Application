@@ -10,7 +10,7 @@ window.addEventListener("load", async (e) => {
         const options = {
           method: 'GET',
           headers: {
-            'X-RapidAPI-Key': '1e914dd544msh011fa0ee26ea69bp14fd74jsnc0a4a98bdd12',
+            'X-RapidAPI-Key': 'ff5c26ec3bmsh9a4eb79adb77d32p1ccc34jsn7611fa445f49',
 		    'X-RapidAPI-Host': 'open-weather13.p.rapidapi.com'
           }
         };
@@ -131,7 +131,7 @@ window.addEventListener("load", async (e) => {
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': '1e914dd544msh011fa0ee26ea69bp14fd74jsnc0a4a98bdd12',
+        'X-RapidAPI-Key': 'ff5c26ec3bmsh9a4eb79adb77d32p1ccc34jsn7611fa445f49',
 		'X-RapidAPI-Host': 'open-weather13.p.rapidapi.com'
       }
     };
